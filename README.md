@@ -24,9 +24,9 @@ Hier befinden sich alle relevanten Dateien zur Ausführung des interaktiven Dash
   Hier sind sämtliche zur Visualisierung verwendeten Datensätze abgelegt.  
   Die genutzten Quellen sind:
   - [Weltbevölkerung](https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset)
-  - [BIP-Daten](https://www.kaggle.com/datasets/samratkumardey/world-economic-data)
-  - [Export/Import-Daten](https://www.kaggle.com/datasets/whenamancodes/34-years-world-export-and-import-dataset)
-  - [Inflation](https://www.kaggle.com/datasets/jainilcoder/global-inflation-rate)
+  - [BIP-Daten](https://www.kaggle.com/datasets/sazidthe1/world-gdp-growth)
+  - [Export/Import-Daten](https://www.kaggle.com/datasets/muhammadtalhaawan/world-export-and-import-dataset)
+  - [Inflation](https://www.kaggle.com/datasets/sazidthe1/global-inflation-data)
 
 - **`.streamlit/config.toml`**  
   Konfigurationsdatei für das Layout und Theme des Dashboards (z. B. Dark Mode, Farben etc.).
