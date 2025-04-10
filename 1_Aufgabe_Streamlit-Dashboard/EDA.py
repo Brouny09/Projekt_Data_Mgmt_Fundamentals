@@ -66,9 +66,9 @@ if __name__ == "__main__":
     # -----------------------------
 
     # Zeilen mit fehlenden Werten werden entfernt, da Visualisierungen sonst fehlschlagen oder unvollständig sind.
-    gdp_df_clean = gdp_df.dropna()
-    infl_df_clean = infl_df.dropna()
-    trade_df_clean = trade_df.dropna()
+    #gdp_df_clean = gdp_df.dropna()
+    #infl_df_clean = infl_df.dropna()
+    #trade_df_clean = trade_df.dropna()
 
     print("✅ Nullwertbereinigung abgeschlossen. Zeilen mit fehlenden Werten wurden entfernt (BIP, Inflation, Handel).\n")
 
