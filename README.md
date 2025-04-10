@@ -42,3 +42,12 @@ In diesem Ordner befinden sich alle relevanten Dateien zum **Systementwurf** der
 
 - Der **Systementwurf selbst** ist enthalten.
 - Ebenso die **Ausarbeitung** mit Erläuterungen zu Architektur, Datenflüssen und technischen Entscheidungen.
+
+---
+
+### 👥 Arbeitsaufteilung
+
+Die Arbeitsaufteilung in der Gruppe war folgendermaßen:
+
+- **Aufgabe Dashboard** – Niklas: 70 % / Jeremia: 30 %  
+- **Aufgabe Systementwurf** – Niklas: 30 % / Jeremia: 70 %
